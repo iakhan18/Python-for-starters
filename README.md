@@ -2,6 +2,6 @@ Following concepts are covered in this mini project.
 
 - Fundamentals of Python language
 - Object-Oriented Programming and other advanced concepts
-- Manipulating matrices using NumPy
-- Data Wrangling with Pandas
-- Visualizing Data using Matplotlib
+- File handling in Python
+- Control statements
+- Data structure like lists etc.
