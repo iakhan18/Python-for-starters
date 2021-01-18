@@ -1,0 +1,1 @@
+Spy Games is an python project which uses basic concepts like control statements, files, lists etc. of python language to decipher a hidden message in a series of files which have to be accessed in different ways.
